@@ -5,7 +5,7 @@
 - CSS (SASS)
 ## Learning 
 - Python (Django, flask)
-- PHP
+- PHP (Laravel)
 ## Want to learn
 - C# (.NET)
 - Kotlin
