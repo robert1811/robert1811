@@ -1,6 +1,7 @@
 # Web developer
 ## Tech stack
 - Javascript (React, nodeJS)
+- Typescript
 - HTML
 - CSS (SASS)
 ## Learning 
