@@ -5,6 +5,8 @@
 - HTML
 - CSS (SASS)
 ## Learning 
+- Zustand
+- NextJS
 - Python (Django, flask)
 - PHP (Laravel)
 ## Want to learn
