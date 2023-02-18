@@ -4,6 +4,7 @@
 - Typescript
 - HTML
 - CSS (SASS)
+- MongoDB
 ## Learning 
 - Zustand
 - NextJS
