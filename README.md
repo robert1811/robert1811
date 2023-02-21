@@ -1,12 +1,11 @@
 # Web developer
 ## Tech stack
-- Javascript (React, nodeJS)
+- Javascript (React, nodeJS, Zustand)
 - Typescript
 - HTML
 - CSS (SASS)
 - MongoDB
 ## Learning 
-- Zustand
 - NextJS
 - Python (Django, flask)
 - PHP (Laravel)
